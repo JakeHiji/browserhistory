@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e9a6342-f3f2-4aa9-bbe9-2a429eeca5bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="browserhistory" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,18 +70,30 @@
       <option name="presentableId" value="Default" />
       <updated>1581906065494</updated>
       <workItem from="1581906068827" duration="2665000" />
-      <workItem from="1581980646753" duration="526000" />
+      <workItem from="1581980646753" duration="1301000" />
     </task>
+    <task id="LOCAL-00001" summary="red">
+      <created>1581981372931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581981372931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="red" />
+    <option name="LAST_COMMIT_MESSAGE" value="red" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="788" y="32" key="CommitChangelistDialog2" timestamp="1581981345069">
+    <state x="788" y="32" key="CommitChangelistDialog2" timestamp="1581981372788">
       <screen x="0" y="23" width="1920" height="980" />
     </state>
-    <state x="788" y="32" key="CommitChangelistDialog2/-1440.66.1440.877/0.23.1920.980@0.23.1920.980" timestamp="1581981345069" />
+    <state x="788" y="32" key="CommitChangelistDialog2/-1440.66.1440.877/0.23.1920.980@0.23.1920.980" timestamp="1581981372788" />
     <state x="788" y="32" key="CommitChangelistDialog2/-1440.66.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1581980820818" />
     <state x="419" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1581980647067">
       <screen x="0" y="23" width="1920" height="980" />
