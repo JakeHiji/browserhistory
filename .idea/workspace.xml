@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e9a6342-f3f2-4aa9-bbe9-2a429eeca5bb" name="Default Changelist" comment="" />
+    <list default="true" id="2e9a6342-f3f2-4aa9-bbe9-2a429eeca5bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -68,6 +75,8 @@
       <workItem from="1581906068827" duration="2665000" />
       <workItem from="1581980646753" duration="1602000" />
       <workItem from="1582065569909" duration="1440000" />
+      <workItem from="1582516084997" duration="34000" />
+      <workItem from="1582516205493" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="red">
       <created>1581981372931</created>
